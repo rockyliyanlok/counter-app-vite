@@ -2,7 +2,7 @@
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rockyliyanlok.github.io/counter-app-ts",
+  "homepage": "./",
   "dependencies": {
     "@types/jest": "^28.1.6",
     "@types/node": "^18.7.2",
